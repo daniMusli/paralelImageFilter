@@ -10,3 +10,6 @@ this project is a normal filtering project the other three are written using dif
 ### After filtering 
 
 ![](https://github.com/daniMusli/paralelImageFilter/blob/master/afterfilter.jpg)
+
+
+you can convert any image into array form and apply the filter then you can convert the image back into the desired form using the script script.sh 
