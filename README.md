@@ -9,4 +9,4 @@ this project is a normal filtering project the other three are written using dif
 
 ### After filtering 
 
-![]()
+![](https://github.com/daniMusli/paralelImageFilter/blob/master/afterfilter.jpg)
