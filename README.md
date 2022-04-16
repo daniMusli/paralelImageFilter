@@ -1,5 +1,6 @@
 # paralelImageFilter
  programs written using MPI parallel programming technologies to filter images using median image filter 
+ 
 The project aims to demonstrate the difference in computational time between normal and parallel programming.
 
 ### Before Filtering 
